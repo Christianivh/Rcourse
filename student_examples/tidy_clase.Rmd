@@ -17,7 +17,7 @@ library(tidyverse)
 
 # tidyr examples
 
-Cargando la data
+Cargando la data de ejemplo
 ``` {r}
 who<- data.frame(tidyr::who)
 ```
